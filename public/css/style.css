@@ -1,0 +1,8 @@
+body {
+    background-image: url(../image/bg.jpg);
+    background-size: cover;
+  }
+  
+  .title-blue {
+    color: blue
+  }
